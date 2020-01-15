@@ -1,0 +1,11 @@
+{
+  "name": "express-explore",
+  "version": "1.0.0",
+  "description": "express routing tester",
+  "main": "index.js",
+  "author": "mikey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
