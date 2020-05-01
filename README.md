@@ -1,6 +1,6 @@
 # Express routing
 
-**See index.js for examples of the different styles**
+**See `index.js` for examples of the different styles**
 
 This simple example shows how to set up routes using the Express()  (app)
 instance and how to set up routes using a Router() instance. 
